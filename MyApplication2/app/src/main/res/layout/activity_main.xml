@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+
+        android:layout_width="120dp"
+        android:layout_height="88dp"
+        android:src="@drawable/icon1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="647dp"
+        android:text="This Application Help you To get information about tourist cities in egypt and book your trip  you have an six icons      the first icon called cities this icon  show cities and their touristic places
+    the second icon called trips this icon show information about available trips
+    the third icon called offers this icon show trips with offers
+    the fourth icon called reserve and enable user to book trip
+    the fifth icon called maps and show the location of place
+    the sixth icon called about and show information about application  applicatio"
+        android:textColor="@color/black"
+        android:textSize="24dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="about">This Application Help you To get information about tourist cities in egypt and book your trip
+    you have an six icons the first icon called cities this icon  show cities and their touristic places
+    the second icon called trips this icon show information about available trips
+    the third icon called offers this icon show trips with offers
+    the fourth icon called reserve and enable user to book trip
+    the fifth icon called maps and show the location of place
+    the sixth icon called about and show information about application  application</string>
+</resources>
